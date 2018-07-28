@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/colorPrimary"
+    android:background="@color/colorPrimaryLight"
     android:gravity="center_horizontal"
     android:orientation="vertical"
     tools:context=".MainActivity">
@@ -25,7 +25,7 @@
         android:fontFamily="@font/baloo"
         android:text="@string/nome_do_personagem"
         android:textAlignment="center"
-        android:textColor="@color/colorPrimaryLight"
+        android:textColor="@color/colorPrimary"
         android:textSize="20sp" />
 
     <EditText
@@ -34,12 +34,12 @@
         android:layout_marginBottom="20dp"
         android:layout_marginLeft="20dp"
         android:layout_marginRight="20dp"
-        android:backgroundTint="@color/colorPrimaryLight"
+        android:backgroundTint="@color/colorPrimary"
         android:fontFamily="@font/baloo"
         android:hint="@string/personagem"
         android:inputType="text"
-        android:textColor="@color/colorPrimaryLight"
-        android:textColorHint="@color/colorPrimaryLight" />
+        android:textColor="@color/colorPrimary"
+        android:textColorHint="@color/colorPrimary" />
 
 
     <Button
@@ -49,7 +49,7 @@
         android:layout_marginBottom="20dp"
         android:layout_marginLeft="20dp"
         android:layout_marginRight="20dp"
-        android:background="@color/colorSecondaryText"
+        android:background="@color/colorPrimary"
         android:fontFamily="@font/baloo"
         android:text="@string/buscar"
         android:textColor="@color/colorPrimaryLight" />
