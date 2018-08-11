@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:id="@+id/menu_top"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/item_kanto"
+            android:icon="@drawable/poke_star"
+            android:title="Kanto"></item>
+        <item
+            android:id="@+id/item_johto"
+            android:icon="@drawable/poke_star"
+            android:title="Johto"></item>
+        <item
+            android:id="@+id/item_hoenn"
+            android:icon="@drawable/poke_star"
+            android:title="Hoenn"></item>
+        <item
+            android:id="@+id/item_sinnoh"
+            android:icon="@drawable/poke_star"
+            android:title="Sinnoh"></item>
+    </group>
+</menu>

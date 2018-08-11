@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pokedex</string>
+    <string name="status">STATUS</string>
+    <string name="hp">HP: </string>
+    <string name="ataque">Ataque: </string>
+    <string name="defesa">Defesa: </string>
+    <string name="ataque_especial">Ataque especial: </string>
+    <string name="defesa_especial">Defesa especial: </string>
+    <string name="velocidade">Velocidade: </string>
+    <string name="tipo">Tipo(s):</string>
+</resources>
