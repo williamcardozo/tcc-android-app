@@ -1,3 +1,3 @@
-# APP World of Warcraft
+# APP Pokedex
 
 TCC do treinamento de android feito na CWI Software
